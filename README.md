@@ -2,12 +2,9 @@
 
 https://hatatori.github.io/carousel/carousel.html
 
-##buttons
-
-#buttons
-
-
-#test
+# O título maior
+## O segundo maior título
+###### O título menor
 
 
 O botão deve conter o atributo ```target```, pois ele referencia ao ```id``` do carousel referente.
