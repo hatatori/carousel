@@ -19,9 +19,6 @@ Os botões devem conter as classes ```class="bt-carousel-prev"``` e ```class="bt
 Uma classe ```item``` é uma div inteira que avança para o lado.
 
 ```html
-<button target="carousel" class="bt-carousel-prev"> ◄ </button> 
-<button target="carousel" class="bt-carousel-next"> ► </button> 
-
 <div class="carousel" id="carousel2">
 
     <div class="item "> 
