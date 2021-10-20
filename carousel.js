@@ -7,7 +7,7 @@ class Carousel{
     }
 
     next(){
-        if( this.n < this.max-1){
+        if( this.n < this.max){
             this.n++
             this.pos = this.n
         }
