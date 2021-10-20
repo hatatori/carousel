@@ -6,6 +6,10 @@ https://hatatori.github.io/carousel/carousel.html
 
 #buttons
 
+
+#test
+
+
 O botão deve conter o atributo ```target```, pois ele referencia ao ```id``` do carousel referente.
 ```html 
 <button target="carousel" class="bt-carousel-prev"> ◄ </button> 
