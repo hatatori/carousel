@@ -1,5 +1,7 @@
 # carousel
 
+https://hatatori.github.io/carousel/carousel.html
+
 O botão deve conter o ```target="nome"```, pois ele referencia ao ```id``` da div.
 
 Os botões devem conter as classes ```class="bt-carousel-prev"``` e ```class="bt-carousel-next"```.
