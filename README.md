@@ -19,17 +19,20 @@ Os botões devem conter as classes ```class="bt-carousel-prev"``` e ```class="bt
 Uma classe ```item``` é uma div inteira que avança para o lado.
 
 ```html
-<div class="carousel" id="carousel2">
+<button target="test" class="bt-carousel-prev"> ◄ </button> 
+<button target="test" class="bt-carousel-next"> ► </button> 
 
-    <div class="item "> 
-        <div class="card-example">A</div>
-        <div class="card-example">B</div>
-        <div class="card-example">C</div>
+<div class="carousel" id="test">
+
+    <div class="item center"> 
+        <div class="carousel-card center">A</div>
+        <div class="carousel-card center">B</div>
+        <div class="carousel-card center">C</div>
     </div>
 
-    <div class="item "> 
-        <div class="card-example">D</div>
-        <div class="card-example">E</div>
+    <div class="item center">
+        <div class="carousel-card center">D</div>
+        <div class="carousel-card center">E</div>
     </div>
 
 </div>
