@@ -49,6 +49,8 @@ Uma classe ```item``` é uma div inteira que avança para o lado.
 
 # Final
 ```html
+<link rel="stylesheet" href="https://hatatori.github.io/carousel/carousel.css">
+
 <div class="container">
     <button target="carousel" class="bt-carousel-prev">◄</button>
     <div class="carousel" id="carousel">
@@ -76,4 +78,6 @@ Uma classe ```item``` é uma div inteira que avança para o lado.
     </div>
     <button target="carousel" class="bt-carousel-next">►</button>
 </div>
+
+<script src="https://hatatori.github.io/carousel/carousel.js"></script>
 ```
