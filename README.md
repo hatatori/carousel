@@ -6,6 +6,11 @@ https://hatatori.github.io/carousel/carousel.html
 ```Explicação```
 https://hatatori.github.io/carousel
 
+## CDN
+```html
+<link rel="stylesheet" href="https://hatatori.github.io/carousel/carousel.css">
+<script src="https://hatatori.github.io/carousel/carousel.js"></script>
+```
 
 ## Buttons
 
