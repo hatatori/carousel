@@ -38,7 +38,7 @@ Uma classe ```item``` é uma div inteira que avança para o lado.
 </div>
 ```
 
-
+# Final
 ```html
 <link rel="stylesheet" href="carousel.css">
 
