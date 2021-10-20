@@ -14,7 +14,7 @@ As classes ```bt-carousel-prev``` e  ```bt-carousel-next``` indicam a ordem.
 
 Os botões devem conter as classes ```class="bt-carousel-prev"``` e ```class="bt-carousel-next"```.
 
-## Estrutura básica
+## Estrutura do corpo
 
 Uma classe ```item``` é uma div inteira que avança para o lado.
 
