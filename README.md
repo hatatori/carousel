@@ -22,18 +22,17 @@ Uma classe ```item``` é uma div inteira que avança para o lado.
 <button target="carousel" class="bt-carousel-prev"> ◄ </button> 
 <button target="carousel" class="bt-carousel-next"> ► </button> 
 
-<div class="carousel" id="carousel">
+<div class="carousel" id="carousel2">
 
-    <div class="item center"> 
-        <div><img src='imgs/1.jpg'></div>
-        <div><img src='imgs/2.jpg'></div>
-        <div><img src='imgs/3.jpg'></div>
+    <div class="item "> 
+        <div class="card-example">A</div>
+        <div class="card-example">B</div>
+        <div class="card-example">C</div>
     </div>
 
-    <div class="item center"> 
-        <div><img src='imgs/1.jpg'></div>
-        <div><img src='imgs/2.jpg'></div>
-        <div><img src='imgs/3.jpg'></div>
+    <div class="item "> 
+        <div class="card-example">D</div>
+        <div class="card-example">E</div>
     </div>
 
 </div>
