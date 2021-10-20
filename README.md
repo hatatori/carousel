@@ -14,6 +14,31 @@ As classes ```bt-carousel-prev``` e  ```bt-carousel-next``` indicam a ordem.
 
 Os botões devem conter as classes ```class="bt-carousel-prev"``` e ```class="bt-carousel-next"```.
 
+# Estrutura básica
+
+Uma classe ```item``` é uma div inteira que avança para o lado.
+
+```html
+<button target="carousel" class="bt-carousel-prev"> ◄ </button> 
+<button target="carousel" class="bt-carousel-next"> ► </button> 
+
+<div class="carousel" id="carousel">
+
+    <div class="item center"> 
+        <div><img src='imgs/1.jpg'></div>
+        <div><img src='imgs/2.jpg'></div>
+        <div><img src='imgs/3.jpg'></div>
+    </div>
+
+    <div class="item center"> 
+        <div><img src='imgs/1.jpg'></div>
+        <div><img src='imgs/2.jpg'></div>
+        <div><img src='imgs/3.jpg'></div>
+    </div>
+
+</div>
+```
+
 
 ```html
 <link rel="stylesheet" href="carousel.css">
