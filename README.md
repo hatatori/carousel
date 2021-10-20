@@ -1,6 +1,7 @@
 # Carousel
 
 https://hatatori.github.io/carousel/carousel.html
+https://hatatori.github.io/carousel
 
 
 ## Buttons
